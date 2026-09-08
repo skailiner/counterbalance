@@ -33,4 +33,3 @@ Hugging Face initially rejected an unsupported display-card color. It was change
 17 automated groups pass, plus independent numerical and asynchronous-workflow reviews. See TESTING.md for exact coverage, fixes and exclusions. The method and interval assumptions are explicit in METHOD.md. No clean dependency-audit claim, physical-phone test, screen-reader certification or high-stakes statistical certification is made.
 
 An additional owner-private Sites copy deployed successfully. Public Sites access was not enabled; use the free public app above for sharing. Private receipts are retained only in an ignored local file.
-
