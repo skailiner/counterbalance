@@ -1,5 +1,7 @@
 # COUNTERBALANCE
 
+[Open the free public app](https://skailiner-counterbalance.static.hf.space/index.html) · [GitHub source](https://github.com/skailiner/counterbalance) · [Hugging Face](https://huggingface.co/spaces/skailiner/counterbalance)
+
 A free, browser-local lab for designing fair comparisons and examining what their results support. World Build 010 by SKAI-LINE.
 
 ## Use it
